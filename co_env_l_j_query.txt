@@ -8,5 +8,7 @@ The fpage field holds the page number.
 The publication_date for all items should be 1/1/2006, in the final column.
 peer_reviewed = FALSE
 Please make the items in the title field and author fields Title Case.
+Please make the items in the author fields Title Case as well.
 The document_type should be article or note, lower case.
 Please be diligent and ensure that all rows have the same number of columns and vice versa.
+Please put quotation marks around each field.
